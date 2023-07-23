@@ -14,6 +14,7 @@
 		C7A9C0932A6DF15100C13E51 /* HabitTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A9C0922A6DF15100C13E51 /* HabitTrackerTests.swift */; };
 		C7A9C09D2A6DF15100C13E51 /* HabitTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A9C09C2A6DF15100C13E51 /* HabitTrackerUITests.swift */; };
 		C7A9C09F2A6DF15100C13E51 /* HabitTrackerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A9C09E2A6DF15100C13E51 /* HabitTrackerUITestsLaunchTests.swift */; };
+		C7A9C0AC2A6DF22D00C13E51 /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A9C0AB2A6DF22D00C13E51 /* secondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		C7A9C0982A6DF15100C13E51 /* HabitTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HabitTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7A9C09C2A6DF15100C13E51 /* HabitTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitTrackerUITests.swift; sourceTree = "<group>"; };
 		C7A9C09E2A6DF15100C13E51 /* HabitTrackerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitTrackerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C7A9C0AB2A6DF22D00C13E51 /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				C7A9C0802A6DF15000C13E51 /* HabitTrackerApp.swift */,
 				C7A9C0822A6DF15000C13E51 /* ContentView.swift */,
+				C7A9C0AB2A6DF22D00C13E51 /* secondView.swift */,
 				C7A9C0842A6DF15100C13E51 /* Assets.xcassets */,
 				C7A9C0862A6DF15100C13E51 /* HabitTracker.entitlements */,
 				C7A9C0872A6DF15100C13E51 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7A9C0832A6DF15000C13E51 /* ContentView.swift in Sources */,
+				C7A9C0AC2A6DF22D00C13E51 /* secondView.swift in Sources */,
 				C7A9C0812A6DF15000C13E51 /* HabitTrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
