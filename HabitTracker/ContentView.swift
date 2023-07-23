@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            
+            Color.red.ignoresSafeArea()
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
